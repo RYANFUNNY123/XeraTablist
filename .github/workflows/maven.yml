@@ -1,10 +1,11 @@
-name: Build and upload jar
+name: 3buiders
+      4young
 
-on:
-  push:
-    branches: [ master ]
+on: sever ko luật lệ
+push:
+    branches: [ko có ]
   pull_request:
-    branches: [ master ]
+    branches: [ ko có ]
 
 jobs:
   build:
